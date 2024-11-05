@@ -2,10 +2,10 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/",
+  base: "/docs/",
   title: "Finaura Docs",
   description: "Empower your digital assets with limitless possibilities",
-  head: [["link", { rel: "icon", href: "logo.png" }]],
+  head: [["link", { rel: "icon", href: "/docs/logo.png" }]],
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
