@@ -47,7 +47,13 @@ contract Marketplace {
 }
 ```
 
+## Deplpyed Contract
+
+| Chain   | Marketplace Contract Address               | RentableNft Contract Address               |
+| ------- | ------------------------------------------ | ------------------------------------------ |
+| sepolia | 0x3692c52705eB96259f3E5f22Eb1c25446A909d77 | 0xC5B779c9529FB30Fe5Dc9B1B4BEED4ea3C2Cc731 |
+
 ## Additional Resources
 
-* [ERC-4907 Standard](https://eips.ethereum.org/EIPS/eip-4907)
-* [Marketplace Contract](https://github.com/project-name/smart-contract-wallet/blob/main/contracts/Marketplace.sol)
+- [ERC-4907 Standard](https://eips.ethereum.org/EIPS/eip-4907)
+- [Marketplace Contract](https://github.com/project-name/smart-contract-wallet/blob/main/contracts/Marketplace.sol)

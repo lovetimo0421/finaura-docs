@@ -8,18 +8,22 @@ Finuara aim to provide a powerful wallet that allows users to view their multi-c
 
 ## Features
 
-* Multi-chain asset viewing
+* Multi-chain asset viewing (currently only supports Ethereum, more chains will be supported in the future)
+* Support Wallet-Connect
 * Asset dashboard
 * DeFi integration
 * NFT renting
+* Smart contract account ownership market
 * Smart contract account renting
 
 ## Benefits
 
+* You can use your smart contract wallet to sign in to SocialFi and GameFi applications
 * Unified and easy-to-use interface
 * Support for multiple blockchains and protocols
 * Strong security and privacy
 * Customizable and extensible
+* First wallet to allow ownership exchange
 
 ## Detailed Overview
 
@@ -47,6 +51,7 @@ Create smart contract accounts and rent them to others. This innovative feature 
 
 ## Why Choose Our Smart Contract Wallet?
 
+- This monetizes and liquidize your wallet address as assets
 - Unified Interface: Manage all your blockchain activities from a single, user-friendly platform.
 - Multi-Chain Support: Keep track of your assets and interact with dApps across multiple blockchains.
 - Enhanced Security: Rest assured that your assets are protected with robust security measures and industry-leading encryption.

@@ -36,6 +36,7 @@ export default defineConfig({
         items: [
           { text: "Overview", link: "/overview" },
           { text: "Integration", link: "/setup" },
+          { text: "Technical Details", link: "/account-trading" },
         ],
       },
     ],

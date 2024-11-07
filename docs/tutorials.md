@@ -14,7 +14,7 @@ outline: deep
 
 ## Connecting to Your Blockchain Accounts
 
-1. Tap on the "Accounts" tab in the wallet app.
+1. Tap on the "Account Market" tab in the wallet app.
 2. Click "Add Account" and select the blockchain you want to connect.
 3. Follow the on-screen instructions to connect your account.
 4. Repeat this process for each blockchain account you want to manage.

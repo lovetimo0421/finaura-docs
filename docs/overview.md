@@ -6,7 +6,7 @@ outline: deep
 
 ## Project Overview
 
-Our Smart Contract Wallet is a full-featured wallet that allows users to manage their digital assets, interact with DeFi protocols, rent NFTs, and rent smart contract accounts. The project is built using the Hardhat development framework and written in Solidity.
+Our Smart Contract Wallet is a full-featured wallet that allows users to manage their digital assets, interact with DeFi protocols, rent NFTs, and buy/sell/rent smart contract accounts. The project is built using the Hardhat development framework and written in Solidity.
 
 ## Technical Components
 
